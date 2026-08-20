@@ -1464,12 +1464,11 @@ footer {
 }
 
 
+.lightbox.show,
 .lightbox.active,
 .graphic-lightbox.active {
-
     display: flex;
 }
-
 
 .lightbox-content,
 .graphic-lightbox-content {
@@ -2277,11 +2276,10 @@ body {
    LIGHTBOX ANIMATION
 ========================================================= */
 
+.lightbox.show,
 .lightbox.active,
 .graphic-lightbox.active {
-
     animation: lightboxFade 0.3s ease forwards;
-
 }
 
 
