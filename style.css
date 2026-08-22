@@ -3950,14 +3950,11 @@ footer::before {
 
 .photography-grid {
 
-    display: grid;
-
     grid-template-columns: repeat(12, 1fr);
 
     gap: 12px;
 
 }
-
 
 /* Base image */
 
